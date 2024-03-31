@@ -4,7 +4,7 @@ from tkinter import *
 
 def submit():
     input = text.get("1.0",END)
-    input(input)
+    print(input)
  
 windows = Tk()
 
